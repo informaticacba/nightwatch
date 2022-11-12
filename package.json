@@ -26,7 +26,7 @@
     "lodash.clone": "3.0.3",
     "lodash.defaultsdeep": "^4.6.1",
     "lodash.merge": "^4.6.2",
-    "minimatch": "3.0.4",
+    "minimatch": "3.0.5",
     "minimist": "^1.2.5",
     "mkpath": "1.0.0",
     "mocha": "6.2.3",
